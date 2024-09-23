@@ -1,6 +1,6 @@
 # **Community Page**
 
-Welcome to the **Web3 Online Quiz Application** community! We are excited to have you join us in building a decentralized future with blockchain-based quizzes. Whether you're here to contribute to the codebase, suggest improvements, or just connect with like-minded people, you're in the right place.
+Welcome to the community! We are excited to have you join us in building a decentralized future with blockchain-based quizzes. Whether you're here to contribute to the codebase, suggest improvements, or just connect with like-minded people, you're in the right place.
 
 ---
 
